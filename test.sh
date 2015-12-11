@@ -13,4 +13,5 @@ echo "could be grerat"
 echo "yoe"
 echo "hey"
 echo "testing again"
+echo "hey man. you cool"
 exit
