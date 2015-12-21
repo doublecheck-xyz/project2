@@ -9,4 +9,7 @@ echo "you are great"
 echo "good job man"
 echo "if this works you are amazing"
 echo "hey you"
+
+This is not valid bash. Is it Jenkins?
+
 exit
