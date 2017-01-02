@@ -12,5 +12,6 @@ echo "hey you"
 echo "bla"
 echo "fda"
 
+echo "new beginning"
 echo $1
 exit
