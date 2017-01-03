@@ -13,5 +13,6 @@ echo "bla"
 echo "fda"
 
 echo "new beginning"
+echo "old start"
 echo $1
 exit
